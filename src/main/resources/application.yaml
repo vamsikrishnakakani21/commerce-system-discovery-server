@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: discovery-server
+
+d
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
